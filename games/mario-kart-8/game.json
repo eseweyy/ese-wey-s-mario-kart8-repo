@@ -13,7 +13,7 @@
       "version": "1",
       "author": "lemurboy12, RedYoshiKart ",
       "description": "A Mario Kart 8 Mod? PERRY THE MARIO KART 8 MOD? Over Iggy,",
-      "download": "https://github.com/eseweyy/test/raw/refs/heads/main/doofupdated.zip",
+      "download": "https://github.com/eseweyy/ese-wey-s-mario-kart8-repo/releases/download/v1.0/doofupdated.zip",
       "thumbnail": "https://gamebanana.com/mods/embeddables/378815?type=large",
       "license": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
       "tags": [
@@ -28,9 +28,8 @@
       "version": "1",
       "author": "Crashbandiboy2222",
       "description": "Stewie Griffin from Family Guy joins Mario Kart 8! Over Baby Mario.",
-      "download": "https://github.com/eseweyy/test/raw/refs/heads/main/stewie_griffin.zip",
+      "download": "https://github.com/eseweyy/ese-wey-s-mario-kart8-repo/releases/download/v1.0/stewie_griffin.zip",
       "thumbnail": "https://gamebanana.com/mods/embeddables/604053?type=large",
-      "license": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0",
       "tags": [
         "familyguy",
         "stewie",
@@ -43,8 +42,8 @@
       "type": "mod",
       "version": "1",
       "author": "Crashbandiboy2222",
-      "description": "Phillip J Fry from Futurama Joins Mario Kart 8 using his model from Fortnite!\nhe has some issues on bikes, specifically with his waist, but I will do my best to fix it. i just wanted to put it out first",
-      "download": "https://github.com/eseweyy/test/raw/refs/heads/main/philip_j_fry_fortnite.zip",
+      "description": "Phillip J Fry from Futurama Joins Mario Kart 8 using his model from Fortnite!",
+      "download": "https://github.com/eseweyy/ese-wey-s-mario-kart8-repo/releases/download/v1.0/philip_j_fry_fortnite.zip",
       "thumbnail": "https://gamebanana.com/mods/embeddables/614355?type=large",
       "tags": [
         "futurama"
@@ -57,7 +56,7 @@
       "version": "1",
       "author": "BindyCot",
       "description": "Simple mod that replaces Baby Luigi with Spamton from Deltarune.",
-      "download": "https://github.com/eseweyy/test/raw/refs/heads/main/spamton%20(1).zip",
+      "download": "https://github.com/eseweyy/ese-wey-s-mario-kart8-repo/releases/download/v1.0/spamton.1.zip",
       "thumbnail": "https://gamebanana.com/mods/embeddables/325428?type=large"
     },
     {
@@ -66,8 +65,8 @@
       "type": "mod",
       "version": "2",
       "author": "Teos20073",
-      "description": "This is a mod that replaces the Cat Cruiser with Cars 2 Lightning McQueen. \n\nIt also replaces the standard tires with his iconic Lightyear™ tires. \n\nSince it looks weird having a character be inside of him i have also made Waluigi invisible so that it looks good, this also gives him a voice. This mod also includes all UI files.",
-      "download": "https://github.com/eseweyy/test/raw/refs/heads/main/lightning_mcqueen_0d122.zip",
+      "description": "This is a mod that replaces the Cat Cruiser with Cars 2 Lightning McQueen.",
+      "download": "https://github.com/eseweyy/ese-wey-s-mario-kart8-repo/releases/download/v1.0/lightning_mcqueen_0d122.zip",
       "thumbnail": "https://gamebanana.com/mods/embeddables/525344?type=large"
     }
   ]
