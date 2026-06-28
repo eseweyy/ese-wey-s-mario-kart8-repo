@@ -35,6 +35,8 @@ mándame un dm por discord y te enseñaré a configurar todo desde cero
 ## discord
 https://discord.com/users/777625531360739328 
 i might take a while to reply since i don't use discord that much
+
+
 puede que me tarde en responder porque no uso mucho discord
 
 
