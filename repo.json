@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "ese wey's mario kart8 repo",
+  "author": "eseweyy",
+  "description": "ye",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/mario-kart-8/game.json"
+    }
+  ]
+}
